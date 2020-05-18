@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/ic_star_black_48dp.png</file>
+        <file>img/ic_star_half_black_16dp.png</file>
+        <file>img/ic_star_half_black_36dp.png</file>
+        <file>img/ic_star_half_black_48dp.png</file>
+        <file>img/ic_user_secure.png</file>
+        <file>img/movie.png</file>
+        <file>img/perm_group_accessibility_features.png</file>
+        <file>img/perm_group_affects_battery.png</file>
+        <file>img/perm_group_app_info.png</file>
+        <file>img/perm_group_audio_settings.png</file>
+        <file>img/perm_group_bluetooth.png</file>
+        <file>img/perm_group_bookmarks.png</file>
+        <file>img/perm_group_device_alarms.png</file>
+        <file>img/perm_group_display.png</file>
+        <file>img/perm_group_network.png</file>
+        <file>img/perm_group_personal_info.png</file>
+        <file>img/perm_group_screenlock.png</file>
+        <file>img/perm_group_shortrange_network.png</file>
+        <file>img/perm_group_status_bar.png</file>
+        <file>img/perm_group_sync_settings.png</file>
+        <file>img/perm_group_system_clock.png</file>
+        <file>img/perm_group_system_tools.png</file>
+        <file>img/perm_group_voicemail.png</file>
+        <file>img/perm_group_wallpaper.png</file>
+        <file>img/preview_analog.png</file>
+        <file>img/preview_digital.png</file>
+        <file>img/sym_def_app_icon.png</file>
+        <file>img/template_widget_2x2.png</file>
+    </qresource>
+</RCC>
